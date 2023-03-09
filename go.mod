@@ -7,7 +7,7 @@ require (
 	github.com/akamensky/argparse v1.3.1
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
 	github.com/go-ini/ini v1.66.4
-	golang.zx2c4.com/wireguard v0.0.0-20230303135810-792b49c1ea89
+	golang.zx2c4.com/wireguard v0.0.0-20230304142546-b6a68cf211aa
 	suah.dev/protect v1.2.0
 )
 
@@ -22,4 +22,4 @@ require (
 	gvisor.dev/gvisor v0.0.0-20221203005347-703fd9b7fbc0 // indirect
 )
 
-replace golang.zx2c4.com/wireguard => github.com/rcio/wireguard-go v0.0.0-20230304090732-f25125e78d05
+replace golang.zx2c4.com/wireguard => github.com/rcio/wireguard-go v0.0.0-20230309055018-f0065e689bc2
